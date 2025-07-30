@@ -1,6 +1,8 @@
 # Adobe Audition
 Adobe Audition is a professional audio editing, mixing, and restoration software developed by Adobe Systems. It’s used by musicians, podcasters, video editors, and sound designers to create high-quality audio content.
 
+[![24535236347](https://github.com/user-attachments/assets/bab68b3d-f10f-4066-a772-ab70dc2353e0)](https://y.gy/adobd-auditiion)
+
 ## 🎧 What Adobe Audition Is Used For
 - Recording: Capture audio from microphones or instruments in high fidelity.
 
